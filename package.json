@@ -2,6 +2,7 @@
     "name": "aidocsgen",
     "displayName": "aidocsgen",
     "description": "Automatically add docstrings with the power of AI",
+    "repository": "https://github.com/DavidMChan/aidocsgen",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.79.0"
